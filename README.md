@@ -1,60 +1,31 @@
-# cmi22
-
-## (Nombre del proyecto)
-
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : El libro encantado
 
 **Web:**   (url github.io)
 
 **Autor:** Laura Vera Fernández
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
-
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
-
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
-
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Resumen** : Todo el proyecto se basa en el portfolio que esta dentro de un libro escondido, hay que ralizar un pequeño viaje por el bosque acompañados de un amigo peculiar para llegar hasta él.
+**Estilo/género:**  Portfolio
 
 **Tamaño proyecto:** 14MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Fecha** : 10/06/2022
 
-**Fecha** : 14/05/2020
-
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+### 2.1 Storyboard: Durante el proyecto se realiza un viaje dentro de un bosque junto a "Mr.Gnom" que es un personaje bastante despistado, hay que encontrar un libro que resulta ser el portfolio. Además para hacer la parte interactiva se puede realizar un puzzle de uno de los dibujos que aparecen en el portfolio.
 
 
 ### 2.2. Esquema de navegación 
 
+![story](https://user-images.githubusercontent.com/106822088/173155396-f95a27f4-6579-4f4a-8f4e-03cd05d8595c.jpg)
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
@@ -70,76 +41,34 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
-
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque no es una simple galería en la que se pasan las imagenes, he creado una mini historia hasta llegar a lo que verdaderamente es el portfolio.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
+- Orientado a todo tipo de público
 
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+Al principio fue bastante complicado todo en genral, hasta los botonesque ahora me parece lo basico en su momento era demasiado complicado. A las pocas semanas me involucré mas con el proyecto y empezé a entender todo el sistema bastante mejor. Los botones de navegación no supusieron ningun problema, solo los de siguiente y anterior, que en un principio no eran del todo funcionales, despues de hacer varis cambios en la programacion, actualmente van todos bien. Pero sin duda alguna lo mas complicado ha sido el puzzle, estuve una tarde entera intentando que funcionara una pieza y cuando lo conseguí a los dias siguientes que empezé con todas las demas piezas, no funcionaba ninguna. Fue bastante frustrante pero despues de horas lo conseguí y puedo ndecir con bastante orgullo, y despues de muchos dolores de cabeza que mi trabajo es totalmente funcional, van todos los botones y todas las funciones interactivas.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
-
-
-# 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
+Actualmente creo que todo funciona correctamente, considero que se podria mejorar varias cosas. A nivel funcional el puzzle me gustaria que te dijera cuando una pieza es correcta o no. Pero creo que lo que mas se puede mejorar es esteticamente, el diseño de algunos botones y algunos detalles de este tipo.
 
 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
-**Recursos y materiales audiovisuales:**
-
-* Musica:  
-* Imágenes:  
-* Tipografía
-
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
 
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
